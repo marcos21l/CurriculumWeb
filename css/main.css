@@ -1,0 +1,42 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+html, body{
+	height: 100%;
+}
+
+
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+h1 span{
+	font-family: "Times New Roman";
+	font-size: 0.90em;
+	color: black;
+	padding-top: 50px;
+
+}
+
+.desc-welcome{
+	font-family: "Times New Roman";
+	font-size: 0.99em;
+	padding-top: 30px;
+	width: 50%;
+}
+
+
+
+.welcome{
+	background: url("../img/fondo2.png");
+	height: 100%;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+	background-color: #66999;
+}
